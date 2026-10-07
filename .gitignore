@@ -17,5 +17,3 @@ Thumbs.db
 
 # Rendered output. Delete these lines if your instructor asks you to
 # commit the rendered HTML with your assignment.
-distributions-lab*.html
-distributions-lab*_files/
